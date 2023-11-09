@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif
+}
+
+header,
+nav,
+section,
+article,
+footer{
+    border: 1px solid rgb(0, 0, 0);
+    margin: 5px;
+    padding: 8px;
+}
+
+.border-grey{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin: 5px;
+}
+
+h1,
+h2,
+h3{
+    margin-left: 5px;
+}
